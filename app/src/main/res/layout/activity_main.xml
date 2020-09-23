@@ -15,10 +15,9 @@
         android:text="@string/Author"
         android:textSize="40dp"
         android:textAlignment="center"
-        android:background="@color/mirojo"
+        android:background="#FA2020"
         >
     </TextView>
 
 
 </RelativeLayout>
-</androidx.constraintlayout.widget.ConstraintLayout>
